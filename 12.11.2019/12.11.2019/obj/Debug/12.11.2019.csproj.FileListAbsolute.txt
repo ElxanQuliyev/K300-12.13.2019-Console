@@ -1,0 +1,6 @@
+C:\Users\Elxan\source\repos\12.11.2019\12.11.2019\bin\Debug\12.11.2019.exe.config
+C:\Users\Elxan\source\repos\12.11.2019\12.11.2019\bin\Debug\12.11.2019.exe
+C:\Users\Elxan\source\repos\12.11.2019\12.11.2019\bin\Debug\12.11.2019.pdb
+C:\Users\Elxan\source\repos\12.11.2019\12.11.2019\obj\Debug\12.11.2019.exe
+C:\Users\Elxan\source\repos\12.11.2019\12.11.2019\obj\Debug\12.11.2019.pdb
+C:\Users\Elxan\source\repos\12.11.2019\12.11.2019\obj\Debug\12.11.2019.csprojAssemblyReference.cache
