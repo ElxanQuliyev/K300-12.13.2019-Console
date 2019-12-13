@@ -1,6 +1,7 @@
 # K300-12.13.2019-Console
 
 -Bugün işlədiklərimiz yuxarıda 12.11.2019 folderinin içərisindədi
+
 ﻿- Compar Academy-nin sistemini OOP class-lari şəklində yazmalısınız!!!
 
 Qruplar olacaq, hər qrupun adı, proqramı, nömrəsi, həmin qrupda oxuyan tələbələrin siyahısı olmalıdır.
